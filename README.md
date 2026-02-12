@@ -1,111 +1,145 @@
-### Quien Soy?/ Who I am?  
+<h1 align="center">Carlos Quiroga</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;Backend+Specialist;Go+%7C+C%23+%7C+Python;Building+Scalable+Business+Solutions&center=true&width=700&height=45&color=36BCF7&vCenter=true&size=22">
+</p>
+
+<h3 align="center">Fullstack Engineer | Backend Specialist | Systems Engineering Student</h3>
+
 <div align="center">
-<img src="https://github.com/CarlosQE/CarlosQE/blob/main/github-header-image.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Soy Carlos Quiroga, un ingeniero en sistemas en formación con una pasión inagotable por el desarrollo backend. 👨‍💻
-I'm Carlos Quiroga, a budding systems engineer with an insatiable appetite for backend development.👨‍💻 </div>  
-  
-
-
-
-### Mi experiencia/My experience  
-- 👾Actualmente, estoy sumergido en un emocionante proyecto en una startup, donde estoy optimizando procesos y automatizando tareas para impulsar la eficiencia. ️👾Currently, I'm diving into an exciting project at a startup, where I'm streamlining processes and automating tasks to drive efficiency.  
-  
-
-
-
-### Mis Metas/My Goals  
-- 🌱Mi objetivo es convertirme en un desarrollador backend completo, y para lograrlo, estoy constantemente aprendiendo nuevas tecnologías y profundizando en conceptos fundamentales.🌱My goal is to become a well-rounded backend developer, and to achieve this, I'm constantly learning new technologies and delving deeper into core concepts.  
-  
-
-
-
-### Extras/Extras  
-- ❓Además de codificar, me encanta compartir mis conocimientos y ayudar a otros a crecer en el mundo de la programación.❓  Beyond coding, I love sharing my knowledge and helping others grow in the programming world.  
-  
-
--   
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Lenguajes/Languages  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Building%20Scalable%20Systems&fontSize=30&fontColor=ffffff" />
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+# 👨‍💻 About Me / Sobre Mí
 
+### 🇺🇸 English
+I'm a Fullstack Developer currently working in a company where I design and develop software solutions, automate processes, and provide technical support.
 
-### -----Frameworks-----  
-<div align="center">  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+I focus on building scalable backend systems, optimizing databases, and creating efficient architectures.
+
+Currently pursuing a degree in Systems Engineering while continuously improving my technical stack.
+
+### 🇪🇸 Español
+Soy desarrollador Fullstack y actualmente trabajo diseñando y desarrollando soluciones de software empresariales, automatizando procesos y brindando soporte técnico cuando es necesario.
+
+Mi enfoque principal está en el desarrollo backend, optimización de bases de datos y construcción de arquitecturas eficientes y mantenibles.
+
+Actualmente curso Ingeniería en Sistemas mientras sigo fortaleciendo mis habilidades técnicas.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+# 🚀 What I Do / Qué Hago
 
+### 🇺🇸
+- Backend architecture & API development (Go, C#, Python)
+- Process automation
+- Database design & optimization
+- Internal tools development (WPF)
+- Fullstack solution development
 
-### Extras  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+### 🇪🇸
+- Arquitectura backend y desarrollo de APIs (Go, C#, Python)
+- Automatización de procesos
+- Diseño y optimización de bases de datos
+- Desarrollo de herramientas internas (WPF)
+- Desarrollo de soluciones Fullstack
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+## ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 🧠 Engineering Philosophy / Filosofía de Ingeniería
+
+### 🇺🇸
+- Maintainable and scalable code first
+- Clear architecture and separation of concerns
+- Well-designed data models
+- Automate repetitive tasks to increase efficiency
+
+### 🇪🇸
+- Priorizar código mantenible y escalable
+- Arquitectura clara y separación de responsabilidades
+- Modelado correcto de datos
+- Automatizar tareas repetitivas para mejorar eficiencia
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CarlosQE&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosQE&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-</td></tr></table>  
+<br>
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosQE&theme=tokyonight&hide_border=true" />
+</div>
 
+<br>
 
-## Connect with me  
-<a href="https://github.com/https://github.com/CarlosQE" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CarlosQE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+
+---
+
+# 🔥 Current Focus / Enfoque Actual
+
+### 🇺🇸
+- Advanced Backend Architecture
+- System Design
+- Clean Code & Scalability
+- Performance Optimization
+
+### 🇪🇸
+- Arquitectura Backend Avanzada
+- Diseño de Sistemas
+- Código limpio y escalable
+- Optimización de rendimiento
+
+---
+
+# 🌎 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosQE)
+
+---
+
+<div align="center">
   
+### "Building scalable solutions, not just writing code."
 
-<br/>  
+</div>
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CarlosQE&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</div>
