@@ -1,104 +1,159 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:001524,50:1565C0,100:001524%26height%3D220%26section%3Dheader%26text%3DCarlos%2520Quiroga%26fontSize%3D70%26fontColor%3Dffffff%26animation%3DfadeIn" />
+<h1 align="center">Carlos Quiroga</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DFullstack%2BEngineer%3BBackend%2BSpecialist%3BSystems%2BEngineering%2BStudent%3BBuilding%2BScalable%2BSolutions%26center%3Dtrue%26width%3D600%26height%3D45%26color%3D36BCF7%26vCenter%3Dtrue%26size%3D24">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Frontend+%2B+Backend+Delivery;React+%7C+Vue+%7C+Next.js+%7C+Node.js;NestJS+%7C+Go+%7C+C%23+%7C+Python;Building+Clean%2C+Scalable%2C+Production-Ready+Systems"
+    alt="Typing SVG"
+  />
 </p>
+
+<h3 align="center">
+Full-Stack Engineer | Web Applications, APIs & System Design | Systems Engineering Student
+</h3>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Full-Stack%20Engineering&fontSize=34&fontColor=ffffff&animation=fadeIn"
+    alt="header"
+  />
+</div>
+
+---
+
+## 👨‍💻 About Me | Sobre mí
+
+**EN** — I am a Full-Stack Engineer focused on delivering complete web solutions: modern frontend experiences, robust backends, and optimized databases.  
+I care about scalability, performance, clean architecture, and long-term maintainability.
+
+I actively use GitHub as:
+- Engineering portfolio  
+- Workflow management system  
+- Knowledge base  
+- Continuous improvement tracker  
+
+**ES** — Soy Full-Stack Engineer enfocado en desarrollar soluciones web completas: frontends modernos, backends robustos y bases de datos optimizadas.  
+Me enfoco en escalabilidad, rendimiento, arquitectura limpia y mantenibilidad a largo plazo.
+
+---
+
+## 🚀 What I Do | Qué hago
+
+**EN**
+- Build full-stack web applications  
+- Design RESTful APIs and modular services  
+- Database modeling & optimization  
+- Process automation  
+- Linux-based development workflows  
+
+**ES**
+- Desarrollo aplicaciones web full-stack  
+- Diseño APIs REST y servicios modulares  
+- Modelado y optimización de bases de datos  
+- Automatización de procesos  
+- Flujo de trabajo basado en Linux  
+
+---
+
+## 🛠 Tech Stack | Tecnologías
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,nodejs,nestjs,go,cs,python,postgres,sqlite,linux,git&perline=8"
+    alt="skills"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" />
+</div>
+
+---
+
+## 🧠 Engineering Principles | Principios
+
+**EN**
+- Architecture before implementation  
+- Separation of concerns  
+- Clean and testable code  
+- Performance awareness  
+- Automation first mindset  
+
+**ES**
+- Arquitectura antes que implementación  
+- Separación de responsabilidades  
+- Código limpio y testeable  
+- Conciencia de rendimiento  
+- Mentalidad orientada a automatización  
+
+---
+
+# 📊 GitHub Analytics | Estadísticas
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=CarlosQE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosQE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=CarlosQE&theme=tokyonight&hide_border=true"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosQE&theme=tokyo-night&hide_border=true&radius=8"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=CarlosQE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+  />
+</div>
+
+---
+
+## 🔥 Current Focus | Enfoque Actual
+
+**EN**
+- Advanced Full-Stack Architecture  
+- Scalable Backend Systems  
+- Performance Optimization  
+- Clean Architecture Patterns  
+
+**ES**
+- Arquitectura Full-Stack avanzada  
+- Sistemas backend escalables  
+- Optimización de rendimiento  
+- Patrones de arquitectura limpia  
+
+---
+
+<div align="center">
+
+### Engineering scalable full-stack systems — not just writing code.
+
+### Construyendo sistemas full-stack escalables — no solo escribiendo código.
 
 </div>
 
-🚀 Sobre Mí / About Me
-
-<table align="center">
-<tr>
-<td width="50%">
-<h3>🇪🇸 Español</h3>
-Ingeniero de Software en formación apasionado por la eficiencia. Actualmente diseño y automatizo soluciones empresariales robustas. Mi enfoque es la <b>escalabilidad</b> y la creación de arquitecturas limpias. GitHub es mi laboratorio y bitácora diaria.
-</td>
-<td width="50%">
-<h3>🇺🇸 English</h3>
-Software Engineer in training with a passion for efficiency. Currently designing and automating robust business solutions. I focus on <b>scalability</b> and building clean architectures. GitHub is my daily laboratory and command center.
-</td>
-</tr>
-</table>
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmZzR6bm9oM2N6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
-
-🛠 Tech Stack
-
-💻 Core Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JS" />
-</p>
-
-⚙️ Backend & Frameworks
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NestJS-E0234E%3Fstyle%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite" alt="Nest" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/.NET-512BD4%3Fstyle%3Dfor-the-badge%26logo%3Ddotnet%26logoColor%3Dwhite" alt="DotNet" />
-</p>
-
-🎨 Frontend Excellence
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind" />
-</p>
-
-🗄 Databases & Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQLite-07405E%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" alt="SQLite" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/XAMPP-FB7A24%3Fstyle%3Dfor-the-badge%26logo%3Dxampp%26logoColor%3Dwhite" alt="XAMPP" />
-</p>
-
-📊 GitHub Activity & Stats
-
-<div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCarlosQE%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCarlosQE%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D8" />
-</div>
-
-<div align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosQE&theme=tokyonight&hide_border=true" />
-</div>
-
-🛠 Mi Flujo de Trabajo / Workflow
-
-Como apasionado de la arquitectura de sistemas, utilizo GitHub para:
-
-CI/CD: Automatización de despliegues y pruebas.
-
-Gestión de Proyectos: Organización mediante Issues y Projects para flujos ágiles.
-
-Documentación: Cada repo cuenta con documentación técnica detallada.
-
-🤝 Let's Connect!
-
-<div align="center">
-<a href="https://github.com/CarlosQE">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:tu-correo@ejemplo.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
-
-<br />
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D001524%26height%3D30%26section%3Dfooter" width="100%"/>
-<p><i>"Optimizing the present, building the future."</i></p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"
+  />
 </div>
