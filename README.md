@@ -1,159 +1,70 @@
-<h1 align="center">Carlos Quiroga</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Frontend+%2B+Backend+Delivery;React+%7C+Vue+%7C+Next.js+%7C+Node.js;NestJS+%7C+Go+%7C+C%23+%7C+Python;Building+Clean%2C+Scalable%2C+Production-Ready+Systems"
-    alt="Typing SVG"
-  />
-</p>
-
-<h3 align="center">
-Full-Stack Engineer | Web Applications, APIs & System Design | Systems Engineering Student
-</h3>
-
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Full-Stack%20Engineering&fontSize=34&fontColor=ffffff&animation=fadeIn"
-    alt="header"
-  />
+<img src="assets/header.svg" width="100%" alt="Carlos Q.E. — Systems Engineer, Developer, Creator"/>
 </div>
-
+<br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2800&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=580&lines=Ingeniería+de+Sistemas+%7C+Bolivia;Go+%7C+Python+%7C+JavaScript+%7C+C%23;Blockchain+architect+%26+web+developer;Building+real+solutions%2C+one+sprint+at+a+time">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2800&pause=1000&color=000000&background=00000000&center=true&vCenter=true&width=580&lines=Ingeniería+de+Sistemas+%7C+Bolivia;Go+%7C+Python+%7C+JavaScript+%7C+C%23;Blockchain+architect+%26+web+developer;Building+real+solutions%2C+one+sprint+at+a+time" alt="Typing animation">
+</picture>
+</div>
+<br>
 ---
-
-## 👨‍💻 About Me | Sobre mí
-
-**EN** — I am a Full-Stack Engineer focused on delivering complete web solutions: modern frontend experiences, robust backends, and optimized databases.  
-I care about scalability, performance, clean architecture, and long-term maintainability.
-
-I actively use GitHub as:
-- Engineering portfolio  
-- Workflow management system  
-- Knowledge base  
-- Continuous improvement tracker  
-
-**ES** — Soy Full-Stack Engineer enfocado en desarrollar soluciones web completas: frontends modernos, backends robustos y bases de datos optimizadas.  
-Me enfoco en escalabilidad, rendimiento, arquitectura limpia y mantenibilidad a largo plazo.
-
+<table>
+<tr>
+<td valign="top" width="55%">
+`[ 01 ]` — ORIGIN
+Estudiante de Ingeniería de Sistemas en Bolivia. Programador autodidacta con stack variado, construyendo soluciones reales: desde blockchain en Go hasta sistemas web corporativos. Apasionado por la historia y cultura de los videojuegos.
+<br>
+— MISIONES ACTIVAS —
+◾ TechVault Coin · Blockchain en Go respaldado por activos NASDAQ-100  
+◾ INSEIN SRL · Web corporativa para operaciones en minería  
+◾ Bit_exl · Canal YouTube sobre historia de videojuegos
+</td>
+<td valign="top" width="45%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosQE&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&border_color=1a1a1a&border_radius=4&hide_border=false" width="100%"/>
+</td>
+</tr>
+</table>
 ---
-
-## 🚀 What I Do | Qué hago
-
-**EN**
-- Build full-stack web applications  
-- Design RESTful APIs and modular services  
-- Database modeling & optimization  
-- Process automation  
-- Linux-based development workflows  
-
-**ES**
-- Desarrollo aplicaciones web full-stack  
-- Diseño APIs REST y servicios modulares  
-- Modelado y optimización de bases de datos  
-- Automatización de procesos  
-- Flujo de trabajo basado en Linux  
-
+`[ 02 ]` — ARSENAL
+Languages
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=white)
+Herramientas & Plataformas
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-000?style=flat-square&logo=dotnet&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-000?style=flat-square&logo=canva&logoColor=white)
 ---
-
-## 🛠 Tech Stack | Tecnologías
-
+`[ 03 ]` — REGISTROS
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,nodejs,nestjs,go,cs,python,postgres,sqlite,linux,git&perline=8"
-    alt="skills"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosQE&layout=compact&theme=dark&bg_color=0a0a0a&title_color=ffffff&text_color=888888&border_color=1a1a1a&border_radius=4&hide_border=false" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=CarlosQE&theme=dark&background=0a0a0a&stroke=1a1a1a&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=888888&dates=444444&sideNums=ffffff&currStreakNum=ffffff&border=1a1a1a&border_radius=4" width="46%"/>
 </div>
-
-<br/>
-
+<br>
 <div align="center">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosQE&bg_color=0a0a0a&color=555555&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=false&border_color=1a1a1a" width="88%"/>
 </div>
-
 ---
-
-## 🧠 Engineering Principles | Principios
-
-**EN**
-- Architecture before implementation  
-- Separation of concerns  
-- Clean and testable code  
-- Performance awareness  
-- Automation first mindset  
-
-**ES**
-- Arquitectura antes que implementación  
-- Separación de responsabilidades  
-- Código limpio y testeable  
-- Conciencia de rendimiento  
-- Mentalidad orientada a automatización  
-
----
-
-# 📊 GitHub Analytics | Estadísticas
-
+`[ 04 ]` — TRANSMISIONES
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=CarlosQE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosQE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-  />
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+ 
+![Bit_exl](https://img.shields.io/badge/Bit__exl-000?style=for-the-badge&logo=youtube&logoColor=white)
+ 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)
 </div>
-
-<br/>
-
+<br>
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=CarlosQE&theme=tokyonight&hide_border=true"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosQE&theme=tokyo-night&hide_border=true&radius=8"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=CarlosQE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-  />
-</div>
-
----
-
-## 🔥 Current Focus | Enfoque Actual
-
-**EN**
-- Advanced Full-Stack Architecture  
-- Scalable Backend Systems  
-- Performance Optimization  
-- Clean Architecture Patterns  
-
-**ES**
-- Arquitectura Full-Stack avanzada  
-- Sistemas backend escalables  
-- Optimización de rendimiento  
-- Patrones de arquitectura limpia  
-
----
-
-<div align="center">
-
-### Engineering scalable full-stack systems — not just writing code.
-
-### Construyendo sistemas full-stack escalables — no solo escribiendo código.
-
-</div>
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"
-  />
+<sub><code>◾ systems engineer in training ◾ autodidact ◾ builder ◾ pixel art creator ◾</code></sub>
 </div>
