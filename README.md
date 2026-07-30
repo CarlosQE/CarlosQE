@@ -6,13 +6,6 @@
 
 Estudiante de Ingeniería de Sistemas en Bolivia. Programador autodidacta construyendo soluciones reales, desde blockchain hasta sistemas web corporativos.
 
-**— MISIONES ACTIVAS —**
-
-◾ **TechVault Coin** · Blockchain en Go respaldado por activos NASDAQ-100  
-◾ **INSEIN SRL** · Web corporativa para operaciones en minería  
-
----
-
 ## `[ 02 ]` — ARSENAL
 
 **Frontend**
